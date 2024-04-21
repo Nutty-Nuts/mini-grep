@@ -1,0 +1,4 @@
+AllowShortFunctionsOnASingleLine: Empty
+IndentWidth: 4
+TabWidth: 4
+PointerAlignment: Left
